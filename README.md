@@ -35,13 +35,7 @@ Built with **Power BI**, this dashboard helps answer:
 
 ---
 
-## 📸 Dashboard Preview
 
-| Home Page | Riders Breakdown | Weekend Activity |
-|-----------|------------------|------------------|
-![Home](home.png)
-![Riders](riders.png)
-![Weekend](weekend.png)
 
 
 ---
